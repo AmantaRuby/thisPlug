@@ -1,0 +1,13 @@
+name: Main
+version: 1.0-SNAPSHOT
+main: me.amantaruby.main.Main
+api-version: 1.17
+
+commands:
+  fly:
+    usage: /<command>
+    description: this is a Flying Commands
+
+  heal:
+    usage: /<command>
+    description: this is a healing commands for developer to testing the plugins!
